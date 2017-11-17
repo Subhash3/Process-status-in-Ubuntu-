@@ -1,0 +1,4 @@
+The files tells the running status of a process..
+All you have to do is to execute the file by giving process ID as a parameter.
+For any query 
+            contact subhashsarangi123@gmail.com
